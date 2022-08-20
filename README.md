@@ -24,7 +24,7 @@ https://www.instagram.com/_sameer.py/?hl=en,
  -->
  
  <h1 align="center">Hi 👋, I'm Sameer Ahmed</h1>
-<h3 align="center">A developing developer from Pakistan</h3>
+<h3 align="center">A FullStack developer from Pakistan</h3>
 
 ![snake gif](https://github.com/Sadeedpv/Sadeedpv/blob/output/github-contribution-grid-snake.gif)
 
