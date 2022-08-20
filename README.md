@@ -3,7 +3,7 @@
 <!--
 **sameer-ahmed123/sameer-ahmed123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: -->
+Here are some ideas to get you started: 
 
 🔭 I’m currently working on a Small dango social meadia site.
 🌱 I’m currently learning javascript and figma.
@@ -23,14 +23,14 @@ https://www.instagram.com/_sameer.py/?hl=en,
 -www.fiverr.com/sameerahmed868
  -->
  
- <h1 align="center">Hi 👋, I'm Sadeed pv</h1>
-<h3 align="center">A developing developer from India</h3>
+ <h1 align="center">Hi 👋, I'm Sameer Ahmed</h1>
+<h3 align="center">A developing developer from Pakistan</h3>
 
 ![snake gif](https://github.com/Sadeedpv/Sadeedpv/blob/output/github-contribution-grid-snake.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadeedpv&label=Profile%20views&color=0e75b6&style=flat" alt="sadeedpv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer-ahmed123&label=Profile%20views&color=0e75b6&style=flat" alt="sameer-ahmed123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadeedpv" alt="sadeedpv" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameer-ahmed123" alt="sameer-ahmed123" /></a> </p>
 
 - 🔭 I’m currently working on **a Small dango social meadia site**
 
@@ -101,6 +101,10 @@ https://www.instagram.com/_sameer.py/?hl=en,
 -->
 <!--   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> -->
   <!--   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
+ 
+
+ 
+</p>
   
   
 <h3 align="left">Support:</h3>
