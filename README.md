@@ -45,9 +45,8 @@ https://www.instagram.com/_sameer.py/?hl=en,
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://dev.to/sameerahmed123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sadeedpv" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18215276/sameerahmedjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pvsadeed" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
+<a href="https://dev.to/sameerahmed123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18215276/sameerahmedjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
 <a href="www.instagram.com/_sameer.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameer_py" height="30" width="40" /></a>
   
   
