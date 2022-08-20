@@ -5,12 +5,21 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on  Small dango social meadia site.
+- 🌱 I’m currently learning ... javascript and figma.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ... my projects
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: ...sameerkhanjan123@gmail.com
+- ⚡ Fun fact: ...Cats can jump up to 6 times their height
 -->
+
+
+## Connect with me
+https://www.instagram.com/_sameer.py/?hl=en, 
+- 
+
+## Support :
+
+-https://www.buymeacoffee.com/sameerahmed123
+-www.fiverr.com/sameerahmed868
