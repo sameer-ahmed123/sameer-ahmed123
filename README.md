@@ -3,16 +3,16 @@
 <!--
 **sameer-ahmed123/sameer-ahmed123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on  Small dango social meadia site.
-- 🌱 I’m currently learning ... javascript and figma.
+🔭 I’m currently working on  Small dango social meadia site.
+🌱 I’m currently learning ... javascript and figma.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... my projects
+🤔 I’m looking for help with ... my projects
 - 💬 Ask me about ...
-- 📫 How to reach me: ...sameerkhanjan123@gmail.com
-- ⚡ Fun fact: ...Cats can jump up to 6 times their height
--->
+📫 How to reach me: ...sameerkhanjan123@gmail.com
+⚡ Fun fact: ...Cats can jump up to 6 times their height
+
 
 
 ## Connect with me
