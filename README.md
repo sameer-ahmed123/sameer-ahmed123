@@ -5,13 +5,11 @@
 
 Here are some ideas to get you started: -->
 
-🔭 I’m currently working on  Small dango social meadia site.
-🌱 I’m currently learning ... javascript and figma.
-- 👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ... my projects
-- 💬 Ask me about ...
-📫 How to reach me: ...sameerkhanjan123@gmail.com
-⚡ Fun fact: ...Cats can jump up to 6 times their height
+🔭 I’m currently working on a Small dango social meadia site.
+🌱 I’m currently learning javascript and figma.
+🤔 I’m looking for help with my projects
+📫 How to reach me: sameerkhanjan123@gmail.com
+⚡ Fun fact: Cats can jump up to 6 times their height
 
 
 
