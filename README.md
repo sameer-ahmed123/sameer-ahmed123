@@ -26,12 +26,12 @@ https://www.instagram.com/_sameer.py/?hl=en,
  <h1 align="center">Hi 👋, I'm Sameer Ahmed</h1>
 <h3 align="center">A FullStack developer from Pakistan</h3>
 
-![snake gif](https://github.com/Sadeedpv/Sadeedpv/blob/output/github-contribution-grid-snake.gif)
+<!--![snake gif](https://github.com/Sadeedpv/Sadeedpv/blob/output/github-contribution-grid-snake.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer-ahmed123&label=Profile%20views&color=0e75b6&style=flat" alt="sameer-ahmed123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameer-ahmed123" alt="sameer-ahmed123" /></a> </p>
-
+-->
 - 🔭 I’m currently working on **a Small dango social meadia site**
 
 - 🌱 I’m currently learning **ReactJs and figma**
