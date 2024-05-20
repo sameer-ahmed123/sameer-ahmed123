@@ -34,13 +34,13 @@ https://www.instagram.com/_sameer.py/?hl=en,
 
 - 🔭 I’m currently working on **a Small dango social meadia site**
 
-- 🌱 I’m currently learning **javascript and figma**
+- 🌱 I’m currently learning **ReactJs and figma**
 
 - 🤝 I’m looking for help with **my projects**
 
 <!-- - 👨‍💻 Link to my portfolio website  -->
 
-- 📫 How to reach me **sameerkhanjan123@gmail.com**
+- 📫 How to reach me **Sameerahmedjan00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -84,11 +84,11 @@ https://www.instagram.com/_sameer.py/?hl=en,
 </p>
 
 
-  
+  <!--
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sameerahmed123"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sameer ahmed" /></a></p><br><br>
-
+-->
 
 <!-- <p>&nbsp;<img align="center" src="" alt="" /></p> -->
-[![Sameer's](https://github-readme-stats.vercel.app/api?username=sameer-ahmed123)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Sameer's](https://github-readme-stats.vercel.app/api?username=sameer-ahmed123)](https://github.com/anuraghazra/github-readme-stats)-->
 <!-- <p><img align="center" src="" alt="" /></p> -->
